@@ -1,0 +1,37 @@
+.my-btn{
+    color: rgb(10, 41, 242);
+    background-color: white;
+}
+.custom-border{
+    border-left: 10px solid green;
+}
+.icon-color{
+    color: rgb(97, 67, 248);
+}
+.toast-custom-position{
+    position: absolute;
+    top: -50px;
+    right:0px;
+}
+.check-icon{
+    background-color: rgba(82, 67, 194, 0.103693);
+    color: #5243C2;
+}
+.chose-button{
+    width: 200px;
+    background-color: #f0b3da ;
+    padding: 10px 40px;
+    
+
+}
+.selected-card{
+    border-radius: 30px;
+}
+
+
+@media only screen and (max-width:992px) {
+.banner-header{
+        font-size: 25px;
+    }
+
+}
